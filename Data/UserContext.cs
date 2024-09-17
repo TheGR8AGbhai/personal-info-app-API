@@ -13,7 +13,7 @@ namespace PersonalInfoApi.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<UserDetails>()
-                .HasKey(ud => ud.ID); // Configure the ID property as the primary key
+                .HasKey(ud => ud.ID);
 
             base.OnModelCreating(modelBuilder);
         }
