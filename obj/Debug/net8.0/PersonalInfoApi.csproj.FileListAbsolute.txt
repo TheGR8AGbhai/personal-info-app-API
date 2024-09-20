@@ -138,3 +138,4 @@ C:\Users\HY919AT\OneDrive - EY\Desktop\PersonalInfoApi\bin\Debug\net8.0\EFCore.A
 C:\Users\HY919AT\OneDrive - EY\Desktop\PersonalInfoApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
 C:\Users\HY919AT\OneDrive - EY\Desktop\PersonalInfoApi\bin\Debug\net8.0\NetTopologySuite.dll
 C:\Users\HY919AT\OneDrive - EY\Desktop\PersonalInfoApi\bin\Debug\net8.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\HY919AT\OneDrive - EY\Desktop\PersonalInfoApi\obj\Debug\net8.0\PersonalInfoApi.sourcelink.json
